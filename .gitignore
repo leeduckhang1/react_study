@@ -24,6 +24,7 @@ yarn-error.log*
 
 ## 파일 무시 
 test.txt 
+dbconnect.php
 
 ## 다음과 같은 확장자는 전체 무시 
 *.text 
@@ -32,3 +33,5 @@ test.txt
 
 ## 폴더 무시 
 test/
+data/
+databace/
